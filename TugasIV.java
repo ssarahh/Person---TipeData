@@ -4,7 +4,7 @@ public class TugasIV{
 		  short number2 = 100;
 		  int number3 = 1000;
 		  long number4 = 20001;
-		  float number5 = 120023,45f;
+		  float number5 = 120023.45f;
 		  double number6 = 123456;
 		  boolean value = true;
 		  char character = 'a';
